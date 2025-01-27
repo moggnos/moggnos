@@ -1,7 +1,7 @@
 <div>
    <a href="https://github.com/moggnos">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moggnos&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moggnos&layout=compact&langs_count=6&theme=cobalt"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moggnos&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moggnos&layout=compact&langs_count=6&theme=merko"/>
 </div>
     
 <div style="display: inline_block"><br>
